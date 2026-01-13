@@ -1,6 +1,6 @@
 [project]
 name = "markmap-export"
-version = "0.1.1"
+version = "0.2.0"
 description = "Export Markmap mind maps to high-resolution PNG images"
 readme = "README.md"
 requires-python = ">=3.9"
