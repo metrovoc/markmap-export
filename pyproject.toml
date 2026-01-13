@@ -1,8 +1,8 @@
 [project]
 name = "markmap-export"
-version = "0.1.0"
+version = "0.1.1"
 description = "Export Markmap mind maps to high-resolution PNG images"
-# readme = "README.md"  # uncomment when creating README
+readme = "README.md"
 requires-python = ">=3.9"
 license = { text = "MIT" }
 authors = [{ name = "metrovoc", email = "metrovoc@gmail.com" }]
