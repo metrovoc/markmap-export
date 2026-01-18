@@ -107,7 +107,7 @@ def main(
             "-s", "--scale",
             help="Device scale factor (2.0 = Retina)",
             min=0.5,
-            max=4.0,
+            max=10.0,
         ),
     ] = 2.0,
     wait: Annotated[
